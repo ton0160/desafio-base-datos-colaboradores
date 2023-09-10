@@ -1,0 +1,20 @@
+.container-center {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.container-main {
+  display: flex;
+  gap: 20px;
+  margin-top: 20px;
+}
+
+.listado {
+  flex: 1;
+}
+
+.formulario {
+  flex: 30%;
+}
